@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/address_api
+    username: jefferson
+    password: senha.009
+  application:
+    name: address-api
+server:
+  port: 8082
+
